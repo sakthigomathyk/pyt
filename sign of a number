@@ -1,0 +1,8 @@
+c=int(raw_input())
+if c>0:
+   print("positive")
+else c<0:
+   print("negative")
+else:
+   print("zero")
+ 
